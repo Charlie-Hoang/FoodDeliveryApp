@@ -1,0 +1,49 @@
+{
+    "foods" : [
+        {
+            "itemId": "abc002",
+            "name": "Korean Fusion BBQ",
+            "des": "Promotion cannot be applied with any other in-house promotions. Please refer to the special conditions below for more details.",
+            "img": "https://www.mumskitchen.com.sg/image/catalog/New Products February 2020/200512_Mums Kitchen_0012.jpg",
+            "size": "100 cm",
+            "weight": "2.5 kg",
+            "price": 200
+        },
+        {
+            "itemId": "abc005",
+            "name": "LAKSA",
+            "des": "Signature Laksa $22.50 (with GST $24.08) per pax (min 30 pax)",
+            "img": "https://www.mumskitchen.com.sg/image/catalog/Product/Signature Menu/Main_Laksa.JPG",
+            "size": "15 cm",
+            "weight": "200 grams",
+            "price": 25
+        },
+        {
+            "itemId": "abc003",
+            "name": "Chiken Rice",
+            "des": "Chiken Rice",
+            "img": "https://www.mumskitchen.com.sg/image/catalog/New Products February 2020/200512_Mums Kitchen_0132.jpg",
+            "size": "20 cm",
+            "weight": "50 grams",
+            "price": 28
+        },
+        {
+            "itemId": "abc004",
+            "name": "BARBEQUE BUFFET",
+            "des": "BBQ Menu A $13.50 (with GST $14.45) per pax (min 40 pax)",
+            "img": "https://www.mumskitchen.com.sg/image/catalog/Satay.PNG",
+            "size": "100 cm",
+            "weight": "500 grams",
+            "price": 80
+        },
+        {
+            "itemId": "abc001",
+            "name": "BENTO LUNCH BOX",
+            "des": "Bento Menu - Healthier Choice $7.80 (with GST $8.35) per pax (min 15 pax)",
+            "img": "https://www.mumskitchen.com.sg/image/catalog/Product/Bento Menu/Main_Bento Healthier Set.jpg",
+            "size": "35 cm",
+            "weight": "150 grams",
+            "price": 40
+        }
+    ]
+}
