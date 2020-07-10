@@ -1,5 +1,9 @@
 import Foundation
+//Problem: Given a string str consisting of letters only and an integer n, the task is to replace every character of the given string by a character which is n times more than it. If the letter exceeds ‘z’, then start checking from ‘a’ in a cyclic manner.
 
+//Solution:
+//Time complexity: O(n) //n: length of the input string
+//I do not know the disadvantage of using ASCII value to solve this problem
 func transformString(input: String, move: Int) -> String{
     var chars = Array(input)
     
